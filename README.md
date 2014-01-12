@@ -28,6 +28,18 @@ GeoJSON for the state of New York can be found at:
 
 You can also download [the entire set as a ZIP file](https://github.com/unitedstates/districts/archive/gh-pages.zip), and use them however you like. If you plan on using these for heavy traffic, or you want control over the domain name they live on, you should use this method.
 
+### Crawling/discovering shape URLs
+
+You can use the Github Repo Contents API to get a quick JSON view of each directory in the repository.
+
+To see a list of all districts in the `cds/2012` directory, visit:
+
+> [https://api.github.com/repos/unitedstates/districts/contents/cds/2012?ref=gh-pages](https://api.github.com/repos/unitedstates/districts/contents/cds/2012?ref=gh-pages)
+
+To see a list of all states in the `states` directory, visit:
+
+> [https://api.github.com/repos/unitedstates/districts/contents/states?ref=gh-pages](https://api.github.com/repos/unitedstates/districts/contents/states?ref=gh-pages)
+
 ## Other resources
 
 These are just static shapes for current districts. If you want to do more, you might use:
