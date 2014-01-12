@@ -1,12 +1,12 @@
 ## United States Districts
 
-Shape files for the legislative districts of the United States.
+GeoJSON and other shape files for the legislative districts and states of the US.
 
 Supported formats:
 
-* KML
 * GeoJSON (todo)
 * TopoJSON (todo)
+* KML
 * Shapefile (todo)
 
 ## Using the shapes
