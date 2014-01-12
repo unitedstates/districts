@@ -1,27 +1,30 @@
 ## United States Districts
 
-GeoJSON and other shape files for the federal and state legislative districts of the US.
+GeoJSON and other shape files for the federal legislative districts of the US.
 
 Supported formats:
 
-* GeoJSON (todo)
-* TopoJSON (todo)
-* KML (only federal, state-level todo)
-* Shapefile (todo)
+* GeoJSON
+* KML
+
+To do:
+
+* Shapes for state legislative districts
+* TopoJSON
 
 ## Using the shapes
 
 All files in this repository are automatically published to [theunitedstates.io](http://theunitedstates.io), at predictable URLs.
 
-For example, a KML for New York's 1st district can be found at:
+For example, GeoJSON for New York's 1st district can be found at:
 
-> [http://theunitedstates.io/districts/cds/2012/kml/NY-1.kml](http://theunitedstates.io/districts/cds/2012/kml/NY-1.kml)
+> [http://theunitedstates.io/districts/cds/2012/NY-1/shape.geojson](http://theunitedstates.io/districts/cds/2012/NY-1/shape.geojson)
 
-The `2012` here refers to the year that these districts came into effect, and is the most current districts.
+The `2012` here refers to the year that these districts came into effect, and is the most current districts. "At Large" districts, where only 1 person represents an entire state or territory, are coded with a district number of `0` (e.g. `WY-0` and `PR-0`).
 
-A KML for the state of New York can be found at:
+GeoJSON for the state of New York can be found at:
 
-> [http://theunitedstates.io/districts/states/kml/NY.kml](http://theunitedstates.io/districts/states/kml/NY.kml)
+> [http://theunitedstates.io/districts/states/NY/shape.geojson](http://theunitedstates.io/districts/states/NY/shape.geojson)
 
 You can also download [the entire set as a ZIP file](https://github.com/unitedstates/districts/archive/gh-pages.zip), and use them however you like. If you plan on using these for heavy traffic, or you want control over the domain name they live on, you should use this method.
 
