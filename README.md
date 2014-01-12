@@ -1,12 +1,12 @@
 ## United States Districts
 
-Shape files for the legislative districts of the United States.
+GeoJSON and other shape files for the legislative districts and states of the US.
 
 Supported formats:
 
-* KML
 * GeoJSON (todo)
 * TopoJSON (todo)
+* KML
 * Shapefile (todo)
 
 ## Using the shapes
@@ -15,7 +15,7 @@ All files in this repository are automatically published to [theunitedstates.io]
 
 For example, a KML for New York's 1st district can be found at:
 
-> [http://theunitedstates.io/districts/current/cds/kml/NY-1.kml]
+> [http://theunitedstates.io/districts/current/cds/kml/NY-1.kml](http://theunitedstates.io/districts/current/cds/kml/NY-1.kml)
 
 `current` will always point to the current shape of that district. Districts change approximately every 10 years.
 
