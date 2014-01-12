@@ -17,7 +17,7 @@ For example, a KML for New York's 1st district can be found at:
 
 > [http://theunitedstates.io/districts/cds/2012/kml/NY-1.kml](http://theunitedstates.io/districts/cds/2012/kml/NY-1.kml)
 
-The `2012` here refers to the year that these districts came into effect.
+The `2012` here refers to the year that these districts came into effect, and is the most current districts.
 
 A KML for the state of New York can be found at:
 
