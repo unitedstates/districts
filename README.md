@@ -26,6 +26,8 @@ GeoJSON for the state of New York can be found at:
 
 > [http://theunitedstates.io/districts/states/NY/shape.geojson](http://theunitedstates.io/districts/states/NY/shape.geojson)
 
+Replace `.geojson` with `.kml` to get a KML version of a district.
+
 You can also download [the entire set as a ZIP file](https://github.com/unitedstates/districts/archive/gh-pages.zip), and use them however you like. If you plan on using these for heavy traffic, or you want control over the domain name they live on, you should use this method.
 
 ### Crawling/discovering shape URLs
