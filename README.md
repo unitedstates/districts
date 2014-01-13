@@ -44,12 +44,13 @@ To see a list of all states in the `states` directory, visit:
 
 ## Other resources
 
+Check out [mapshaper](https://github.com/mbloch/mapshaper) for all sorts of helpful map manipulation tools.
+
 These are just static shapes for current districts. If you want to do more, you might use:
 
 * Jeffrey B. Lewis' [collection of GeoJSON](https://github.com/JeffreyBLewis/congressional-district-boundaries) for every US congressional district, including historical shapes
 * The [US Census Bureau's API](http://www.census.gov/developers/)
 * GovTrack's [Boundary Service API](http://gis.govtrack.us/map/demo/cd-2012/)
-
 
 ## Public domain
 
