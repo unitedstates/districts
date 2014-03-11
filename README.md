@@ -30,7 +30,7 @@ Replace `.geojson` with `.kml` to get a KML version of a district.
 
 You can also download [the entire set as a ZIP file](https://github.com/unitedstates/districts/archive/gh-pages.zip), and use them however you like. If you plan on using these for heavy traffic, or you want control over the domain name they live on, you should use this method.
 
-We **cannot provide HTTPS permalinks** for these GeoJSON files, as Github Pages does not support SSL. If you want to use these files on your website and worry about showing your users mixed content warnings, you'll need to host them elsewhere. If this seems weird to you, [write Github support](mailto:support@github.com) to request SSL support for Github Pages.
+We **cannot provide HTTPS permalinks** for these GeoJSON files, as [Github Pages does not support SSL](https://github.com/isaacs/github/issues/156). If you want to use these files on your website and worry about showing your users mixed content warnings, you'll need to host them elsewhere. If this seems weird to you, [write Github support](mailto:support@github.com) to request SSL support for Github Pages.
 
 ### Crawling/discovering shape URLs
 
