@@ -1,2 +1,5 @@
 /scripts
+/node_modules
 .DS_Store
+/gz/
+/shp/

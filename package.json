@@ -1,0 +1,19 @@
+{
+  "name": "districts",
+  "version": "0.0.1",
+  "description": "GeoJSON and other shape files for the federal legislative districts of the US.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unitedstates/districts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unitedstates/districts/issues"
+  },
+  "homepage": "https://github.com/unitedstates/districts#readme",
+  "devDependencies": {
+    "topojson": "1.6.27"
+  }
+}

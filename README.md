@@ -6,9 +6,6 @@ Supported formats:
 
 * GeoJSON
 * KML
-
-To do:
-
 * Shapes for state legislative districts
 * TopoJSON
 
