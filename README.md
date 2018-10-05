@@ -1,5 +1,5 @@
 ### Create `us-congressional-districts.geojson` for current data
-- Run `Create_US_Congressional_Districts.ps1` in the root folder / folder `.ps1` is located in.
+- Run `Create_US_Congressional_Districts.ps1` in the root folder, i.e. the folder `.ps1` is located in.
 - Upload `us-congressional-districts.[year].geojson` as a Map in Einstein Analytics
 
 
