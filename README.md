@@ -20,7 +20,9 @@ For example, GeoJSON for New York's 1st district can be found at:
 
 > [https://theunitedstates.io/districts/cds/2012/NY-1/shape.geojson](https://theunitedstates.io/districts/cds/2012/NY-1/shape.geojson)
 
-The `2012` here refers to the year that these districts came into effect, and is the most current districts. "At Large" districts, where only 1 person represents an entire state or territory, are coded with a district number of `0` (e.g. `WY-0` and `PR-0`).
+The `2012` here refers to the year those districts came into effect. The `2012` folder is the post-2010-census baseline and contains every state. The newer year folders (`2016`, `2018`, `2020`, `2022`, …) only contain the states whose boundaries changed in that year — for example, `2018` is just Pennsylvania, `2020` is just North Carolina, `2022` is the post-2020-census redraws starting with New Jersey. So the most current map for a given state is the highest year folder that state appears in: `cds/2022/NJ-1`, `cds/2020/NC-1`, `cds/2018/PA-1`, and `cds/2012/<anything else>`.
+
+"At Large" districts, where only 1 person represents an entire state or territory, are coded with a district number of `0` (e.g. `WY-0` and `PR-0`).
 
 GeoJSON for the state of New York can be found at:
 
