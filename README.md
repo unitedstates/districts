@@ -14,17 +14,17 @@ To do:
 
 ## Using the shapes
 
-All files in this repository are automatically published to [theunitedstates.io](https://theunitedstates.io), at predictable URLs.
+All files in this repository are automatically published to [unitedstates.github.io](https://unitedstates.github.io), at predictable URLs.
 
 For example, GeoJSON for New York's 1st district can be found at:
 
-> [https://theunitedstates.io/districts/cds/2012/NY-1/shape.geojson](https://theunitedstates.io/districts/cds/2012/NY-1/shape.geojson)
+> [https://unitedstates.github.io/districts/cds/2012/NY-1/shape.geojson](https://unitedstates.github.io/districts/cds/2012/NY-1/shape.geojson)
 
 The `2012` here refers to the year that these districts came into effect, and is the most current districts. "At Large" districts, where only 1 person represents an entire state or territory, are coded with a district number of `0` (e.g. `WY-0` and `PR-0`).
 
 GeoJSON for the state of New York can be found at:
 
-> [https://theunitedstates.io/districts/states/NY/shape.geojson](https://theunitedstates.io/districts/states/NY/shape.geojson)
+> [https://unitedstates.github.io/districts/states/NY/shape.geojson](https://unitedstates.github.io/districts/states/NY/shape.geojson)
 
 Replace `.geojson` with `.kml` to get a KML version of a district.
 
